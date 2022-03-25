@@ -1,7 +1,7 @@
 # Party People
 
 ## Project Idea
-Are you a party person? Have you ever been at home and wondered where the parties are at? Well, we got the solution for you! Welcome to Party People! The website where you can see the best parties near you. And if none of them interest you, you can create your own event!
+Are you a party person? Have you ever been at home and wondered where the party's at? Well, we got the solution for you! Welcome to Party People! The website where you can see the best parties near you. And if none of them interest you, you can create your own event!
 
 ## User Stories
 As a user, I want to be able to create my own account
